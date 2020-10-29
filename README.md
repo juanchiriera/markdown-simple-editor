@@ -38,3 +38,7 @@ Finally, the steps to run the front are:
     npm install
     yarn start
 ```
+
+## Youtube Demo!
+
+[![Alt text](https://img.youtube.com/vi/CS_LuyaeB5Q/0.jpg)](https://www.youtube.com/watch?v=CS_LuyaeB5Q&feature=youtu.be)
