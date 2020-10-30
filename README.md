@@ -26,7 +26,7 @@ For the API to run, you need to use maven to compile the application, then it's 
 ``` bash
     cd md-backend
     mvn clean install
-    java -jar java -jar target/md-backend-0.0.1-SNAPSHOT.jar
+    java -jar target/md-backend-0.0.1-SNAPSHOT.jar
 ```
 
 ### Front End
